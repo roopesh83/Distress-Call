@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

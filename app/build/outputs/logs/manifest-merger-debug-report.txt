@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:7:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/roopesh/.android/build-cache/0b4790a5cf3a76e35d0a7833909287bf4c964562/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/roopesh/.android/build-cache/8f6d25f3c7485053c217f23f8e8c1f88a075155c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/roopesh/.android/build-cache/854d7cf62efd203bcfab6c57ae967c02be4a06e7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/roopesh/.android/build-cache/360d2aad94dcef55718e90016fe754bac0231e5c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/roopesh/.android/build-cache/296b8d5259c8369f57c6daa85fa099b1526c6a8b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/roopesh/.android/build-cache/79ac34d4110772b8a05b65a67c93a4483a1ab0a4/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/roopesh/.android/build-cache/2ff5d8dd3831cf22c49019911ad16307c42f698e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/roopesh/.android/build-cache/8212c82d9b71097a53fbbba65fe10b8a73af012b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/roopesh/.android/build-cache/c3b1aa62927f8208be96ced323bbbdecfb67561d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/roopesh/.android/build-cache/2f1d9fe542a4c45eb0506f8b2a05f51dff8d84e8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/roopesh/.android/build-cache/831b24db784ad4206a5037515116f780142271c1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/roopesh/.android/build-cache/73860d1559212d6a348eb162837a7d1b9f5981e4/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.npsgmail.roopesh.androidsqllite.MainActivity
+ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.npsgmail.roopesh.androidsqllite.homepage
+ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:21:9-24:59
+	android:label
+		ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:23:13-60
+	android:theme
+		ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:22:13-37
+activity#com.npsgmail.roopesh.androidsqllite.Developer
+ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:25:9-56
+	android:name
+		ADDED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml:25:19-44
+uses-sdk
+INJECTED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/roopesh/.android/build-cache/0b4790a5cf3a76e35d0a7833909287bf4c964562/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/roopesh/.android/build-cache/8f6d25f3c7485053c217f23f8e8c1f88a075155c/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/roopesh/.android/build-cache/854d7cf62efd203bcfab6c57ae967c02be4a06e7/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/roopesh/.android/build-cache/360d2aad94dcef55718e90016fe754bac0231e5c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/roopesh/.android/build-cache/296b8d5259c8369f57c6daa85fa099b1526c6a8b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/roopesh/.android/build-cache/449144683117ed4b782273fad2275c45fb679028/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/roopesh/.android/build-cache/79ac34d4110772b8a05b65a67c93a4483a1ab0a4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/roopesh/.android/build-cache/2ff5d8dd3831cf22c49019911ad16307c42f698e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/roopesh/.android/build-cache/8212c82d9b71097a53fbbba65fe10b8a73af012b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/roopesh/.android/build-cache/c3b1aa62927f8208be96ced323bbbdecfb67561d/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/roopesh/.android/build-cache/2f1d9fe542a4c45eb0506f8b2a05f51dff8d84e8/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/roopesh/.android/build-cache/831b24db784ad4206a5037515116f780142271c1/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/roopesh/.android/build-cache/73860d1559212d6a348eb162837a7d1b9f5981e4/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/roopesh/.android/build-cache/8f6d25f3c7485053c217f23f8e8c1f88a075155c/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/roopesh/.android/build-cache/8f6d25f3c7485053c217f23f8e8c1f88a075155c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/roopesh/.android/build-cache/854d7cf62efd203bcfab6c57ae967c02be4a06e7/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/roopesh/.android/build-cache/360d2aad94dcef55718e90016fe754bac0231e5c/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/roopesh/.android/build-cache/296b8d5259c8369f57c6daa85fa099b1526c6a8b/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/roopesh/.android/build-cache/449144683117ed4b782273fad2275c45fb679028/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/roopesh/.android/build-cache/79ac34d4110772b8a05b65a67c93a4483a1ab0a4/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/roopesh/.android/build-cache/2ff5d8dd3831cf22c49019911ad16307c42f698e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/roopesh/.android/build-cache/8212c82d9b71097a53fbbba65fe10b8a73af012b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/roopesh/.android/build-cache/c3b1aa62927f8208be96ced323bbbdecfb67561d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/roopesh/.android/build-cache/2f1d9fe542a4c45eb0506f8b2a05f51dff8d84e8/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/roopesh/.android/build-cache/831b24db784ad4206a5037515116f780142271c1/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/roopesh/.android/build-cache/73860d1559212d6a348eb162837a7d1b9f5981e4/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/roopesh/.android/build-cache/8f6d25f3c7485053c217f23f8e8c1f88a075155c/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/roopesh/.android/build-cache/8f6d25f3c7485053c217f23f8e8c1f88a075155c/output/AndroidManifest.xml:26:9-47

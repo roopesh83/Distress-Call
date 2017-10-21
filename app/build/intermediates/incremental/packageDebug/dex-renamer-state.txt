@@ -1,0 +1,7 @@
+#Sat Oct 21 18:57:38 IST 2017
+base.0=/home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_62471ea1115f96522f663907876d9dbb0026c94e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4050f20edeef30816a985e61bbf755465d7876dc/classes.dex
+base.1=/home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4050f20edeef30816a985e61bbf755465d7876dc
+file.0=/home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_62471ea1115f96522f663907876d9dbb0026c94e/classes.dex

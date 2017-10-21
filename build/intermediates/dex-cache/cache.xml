@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3b9c6f37dfe188c8100be9df6662caf9f2cdf4dc">
+        <dex dex="/home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4050f20edeef30816a985e61bbf755465d7876dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_62471ea1115f96522f663907876d9dbb0026c94e/classes.dex" />
+    </item>
+
+</items>

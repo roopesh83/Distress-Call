@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/roopesh/.android/build-cache/854d7cf62efd203bcfab6c57ae967c02be4a06e7/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/roopesh/.android/build-cache/854d7cf62efd203bcfab6c57ae967c02be4a06e7/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/roopesh/.android/build-cache/854d7cf62efd203bcfab6c57ae967c02be4a06e7/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/roopesh/Desktop/androidbash_php_mysql-master/AndroidSqlLite/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/roopesh/.android/build-cache/854d7cf62efd203bcfab6c57ae967c02be4a06e7/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

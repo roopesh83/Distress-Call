@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Distress Call</string>
+    <string name="title_manage_contacts">Manage Contacts</string>
+    <string name="title_activity_homepage">homepage</string>
+</resources>
